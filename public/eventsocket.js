@@ -1,4 +1,3 @@
-// EventEmitter over WebSocket stream
 (function(global) {
 	var slice = Array.prototype.slice;
 	var UNPACK = JSON.parse;
