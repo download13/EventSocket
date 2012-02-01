@@ -1,7 +1,7 @@
 EventSocket
 ===========
 
-A (very) simply event emitter that works over WebSockets.
+A (very) simple event emitter that works over WebSockets.
 
 ### Server Example:
 ```javascript
